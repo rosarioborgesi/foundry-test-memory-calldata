@@ -41,8 +41,6 @@ Running `forge test --gas-report -vv` with **1,000 recipients**:
 ### Key Takeaways
 
 - **220,497 gas saved** (~0.8% reduction) for 1,000 recipients
-- **~220 gas saved per recipient**
-- At typical gas prices, this could save $50-100+ per airdrop!
 - The savings scale linearly with the number of recipients
 
 ## Running the Tests
